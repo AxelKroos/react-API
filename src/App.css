@@ -1,5 +1,46 @@
-.App {
+body {
   text-align: center;
+  animation: bg-animation 50s ease-in-out infinite;
+  padding: 160px 20px;
+  text-align: center;
+  background: url(./images/cosmo.jpg);
+  margin: 20px 0;
+  color: #e9dfee;
+  font-size: 26px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+@media (max-width: 620px) {
+  .bg-animation {
+    padding: 100px 20px;
+    font-size: 26px;
+  }
+}
+@keyframes bg-animation {
+  0% {
+    background-size: 120%;
+    background-position: 50% 50%
+  }
+  20% {
+    background-size: 150%;
+    background-position: 0 50%;
+  }
+  40% {
+    background-size: 110%;
+    background-position: 20% 80%;
+  }
+  60% {
+    background-size: 160%;
+    background-position: 60% 10%;
+  }
+  80% {
+    background-size: 120%;
+    background-position: 40% 70%;
+  }
+  100% {
+    background-size: 120%;
+    background-position: 50% 50%
+  }
 }
 
 .App-logo {

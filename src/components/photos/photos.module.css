@@ -1,0 +1,23 @@
+.block {
+    margin: 0 auto;
+    width: 500px;
+    height: 400px;
+    font-size: 15px;
+}
+
+.image {
+    margin: 0 auto;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.image img {
+    cursor: pointer;
+    transition: all 1s ease-out;
+}
+
+.image img:hover {
+    transform: scale(1.2);
+}
