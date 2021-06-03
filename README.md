@@ -1,3 +1,9 @@
+# Фото дня от NASA :milky_way:
+
+Данные берутся с https://api.nasa.gov/
+
+Всё просто :heavy_check_mark: 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
