@@ -1,5 +1,7 @@
 # Фото дня от NASA :milky_way:
 
+![h55r8BL8](https://user-images.githubusercontent.com/79835478/120605264-886cdf00-c456-11eb-97a8-0b9ea20a5707.jpg)
+
 Данные берутся с https://api.nasa.gov/
 
 Всё просто :heavy_check_mark: 
