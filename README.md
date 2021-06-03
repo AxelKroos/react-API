@@ -4,6 +4,8 @@
 
 Данные берутся с https://api.nasa.gov/
 
+### Стек: React+Redux
+
 Всё просто :heavy_check_mark: 
 
 # Getting Started with Create React App
